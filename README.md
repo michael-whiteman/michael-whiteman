@@ -16,7 +16,7 @@ Welcome to my portfolio where I showcase my [projects](https://github.com/michae
 
 - AI & ML: scikit-learn, XGBoost, Tensorflow/Keras, PyTorch, Hugging Face, MLflow
 - Language: Python, MATLAB, R
-- Data manipulation & analysis: Pandas, NumPy
+- Data manipulation & analysis: Pandas, NumPy, CuPy
 - Visualization & reporting: Matplotlib, Seaborn, Plotly
 
 ### 👋 Connect With Me
