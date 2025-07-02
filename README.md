@@ -14,23 +14,33 @@ Welcome to my portfolio where I showcase my [projects](https://github.com/michae
 
 ### 🛠️ Tools
 
-- Language: Python
+- AI & ML: scikit-learn, XGBoost, Tensorflow/Keras, PyTorch, Hugging Face, MLflow
+- Language: Python, MATLAB, R
+- Data manipulation & analysis: Pandas, NumPy
+- Visualization & reporting: Matplotlib, Seaborn, Plotly
 
 ### 👋 Connect With Me
 
 [Linkedin](https://www.linkedin.com/in/michaelwhiteman/)
 
+***
+
 <!--
-**michael-whiteman/michael-whiteman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+To show:
+#### Data Manipulation & Analysis
+SQL (PostgreSQL, MySQL) · Apache Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Data Storage & Databases
+PostgreSQL · MongoDB 
+
+#### MLOps & Deployment
+Docker · Kubernetes · (move MLflow here)
+
+#### Visualization & Reporting
+Tableau · Power BI
+
+#### Cloud Platforms
+AWS · GCP · Azure
+
 -->
